@@ -50,6 +50,8 @@ header {
 h1 {
 	font-weight: bold;
 	color: #F8FAF8;
+    height: 40px;
+    line-height: 40px;
 }
 
 h2 {
@@ -66,10 +68,11 @@ h3 a {
 	padding-left: 10px;
 	padding-right: 10px;
 }
-section header {
-	text-align:center;
-	height:40px;
+
+.section-header {
 	line-height:40px;
+	height:40px;
+	text-align:center;
 	background-color:#004358;
 }
 
@@ -78,6 +81,7 @@ section header h1 {
 }
 
 article {
+    padding-top: 40px;
 	text-align: center;
 	color: #22272A;
 	margin:5%
