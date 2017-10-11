@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "type": "personal",
+      "date": "June 2017",
+      "description": {
+        "what": "Moved back to the",
+        "emphasis": "Bay Area",
+        "info": "Currently Walnut Creek!"
+      }
+    },
+    {
+      "type": "professional",
+      "date": "June 2017",
+      "description": {
+        "what": "Graduated from",
+        "emphasis": "University of California, San Diego",
+        "info": "I graduated with a B.S. in Mathematics-Computer Science!"
+      }
+    },
+    {
+      "type": "professional",
+      "date": "May 2017",
+      "description": {
+        "what": "Completed the",
+        "emphasis": "Facebook Web Security Bootcamp",
+        "info": "This 12 week bootcamp offered by Codepath University and sponsored by Facebook covered web security principles, common exploits, and how to prevent them."
+      }
+    },
+    {
+      "type": "event",
+      "date": "September 2016",
+      "description": {
+        "what": "Started working as a Help Desk Technician for",
+        "emphasis": "Information Technology Services at UC San Diego",
+        "info": "From phone calls about software, to dorm room cable issues, to A/V problems in classrooms, we provided technical support to the students and faculty of UCSD."
+      }
+    },
+    {
+      "type": "event",
+      "date": "November 2015",
+      "description": {
+        "what": "Became part of the QA team at",
+        "emphasis": "Stitch Music",
+        "info": "Stitch Music was an iOS application that provided a way for users to share experiences from their favorite performers live events. As part of the QA team I helped create and moderate user content as well as extensively tested new builds of the app."
+      }
+    },
+    {
+      "type": "personal",
+      "date": "September 2015",
+      "description": {
+        "what": "Moved to",
+        "emphasis": "San Diego",
+        "info": "I loved San Diego! If you find yourself here go hike Iron Mountain and get tacos at Puestos."
+      }
+    },
+    {
+      "type":"professional",
+      "date": "June 2015",
+      "description": {
+        "what": "Graduated from",
+        "emphasis": "Chabot College",
+        "info": "With an A.S. in Computer Science I was ready to transfer to UC San Diego!"
+      }
+    },
+    {
+      "type": "event",
+      "date": "June 2014",
+      "description": {
+        "what": "Became a volunteer Computer Docent for",
+        "emphasis": "Oakland Public Libraries, Elmhurst Branch",
+        "info": "As a Computer Docent I taught patrons basic computer skills like creating email accounts, using office programs, and filling out online applications. In addition, I taught kids how to use the programming language <a href=https://scratch.mit.edu/>Scratch</a> to make animations and games."
+      }
+    },
+    {
+      "type": "professional",
+      "date": "August 2012",
+      "description": {
+        "what": "Interned as a System Administrator for",
+        "emphasis": "Cogent Solutions",
+        "info": "Received training and assisted the clients of Cogent Solutions with various system adminstration tasks."
+      }
+    },
+    {
+      "type": "event",
+      "date": "June 2012",
+      "description": {
+        "what": "Became a Technical Support Specialist at",
+        "emphasis": "Warbritton & Associates",
+        "info": "I provided IT support for two offices of over twenty users. During my three years here I was the first contact for all tech support and developed custom templates and databases that integrated with our patient records."
+      }
+    }
+  ]
+}
