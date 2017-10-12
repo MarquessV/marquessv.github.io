@@ -152,12 +152,74 @@ h2 {
   display: none;
 }
 
+
+.interests {
+  margin: 0 0 2em 0;
+}
+
+.interests a {
+  color: #8be9fd;
+  text-decoration: none;
+}
+
+.interests .title {
+  cursor: pointer;
+  font-size: 1.2em;
+  font-weight: 700;
+  margin: .8em 0;
+}
+
+.interests .title:before {
+  content: "\f0da ";
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  font-decoration: inherit;
+  font-size: 18px;
+  top: 1px;
+  padding-right: 0.25em;
+  position: relative;
+}
+
+.interests .exp {
+  display: none;
+}
+
+.interests ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.interests em {
+  color: #ff5555;
+  font-style: normal;
+}
+
+.interests li::before {
+  content: '';
+}
+
+.interests ul li {
+  margin: 2em 0;
+  list-style-position: outside;
+}
+
+.interests .loading {
+  animation: blinker 1s linear infinite;
+  margin: 1em 0 0 0;
+}
+
+.interests .loading.hide {
+  display: none;
+}
+
 .projects {
   margin: 0 0 2em 0;
 }
 
 .projects a {
   color: #8be9fd;
+  text-decoration: none;
 }
 
 .projects .title {
