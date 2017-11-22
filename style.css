@@ -11,6 +11,10 @@ body {
   max-width: 650px;
 }
 
+#atp {
+  color: #50fa7b;
+}
+
 h1 {
   font-weight: 400;
   margin: 0;
