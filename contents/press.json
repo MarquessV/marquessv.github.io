@@ -5,6 +5,10 @@
       "title": "My personal set of dotfiles"
     },
     {
+      "url": "https://github.com/MarquessV/cBirdpp",
+      "title": "A wrapper around the Cornell eBird API 2.0 in C++"
+    },
+    {
       "url": "https://github.com/MarquessV/RedBlackTree",
       "title": "An implementation of a red black tree in C++"
     },

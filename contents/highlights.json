@@ -1,5 +1,13 @@
 {
   "data": [
+    { "type": "professional",
+      "date": "March 2018",
+      "description": {
+        "what": "I started working as a QA Engineer at ",
+        "emphasis": "Shipt!",
+        "info": "Through a user-friendly app and a local network of reliable shoppers, Shipt connects members to fresh groceries and everyday essentials."
+      }
+    },
     {
       "type": "professional",
       "date": "November 2017",
